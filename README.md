@@ -1,9 +1,9 @@
 SEAM_I_2D Elastic model
 ===========================
 
-## open access line from the SEAM I elastic model.
+**open access line from the SEAM I elastic model**
 
-Useful for testing workflows/projects with full known data
+Useful for testing workflows/projects with fully known model & data
 
 
 The model is saved as sgy and npy files containing the three model parameters:
