@@ -1,7 +1,7 @@
 SEAM_I_2D Elastic model
 ===========================
 
-##open access line from the SEAM I elastic model.
+## open access line from the SEAM I elastic model.
 
 Useful for testing workflows/projects with full known data
 
