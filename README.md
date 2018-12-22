@@ -14,4 +14,4 @@ The model is saved as sgy and npy files containing the three model parameters:
 
 **(https://seg.org/News-Resources/Research-Data/Open-Data)**
 
-Notebooks creating prestack reflectivities and synthetic seismic data are also stored here
+Notebooks (messy) creating prestack reflectivities and synthetic seismic data are also stored here
